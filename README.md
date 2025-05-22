@@ -82,7 +82,10 @@ tackling-fake-news/
 ├── blockchain/         
 ├── datasets/           
 ├── docs/               
-└── README.md          
+└── README.md   
+
+> This structure will evolve as development progresses.
+
 
 
 
