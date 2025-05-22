@@ -70,3 +70,19 @@ The system aims to provide real-time alerts, ensure trust in shared content, and
 - [Tackling Fake News Overview](./Tackling_Fake_News_Overview.pdf)
 - [Tackling Fake News Architecture & Design Document](./Tackling_Fake_News_Architecture_Design_Document.pdf)
 - [Tackling Fake News Checkpoint 1 Summary Updated](./Tackling_Fake_News_Checkpoint1_Summary_Updated.pdf)
+
+---
+
+## 🗂 Project Folder Structure
+
+tackling-fake-news/
+├── frontend/           
+├── backend/            
+├── models/             
+├── blockchain/         
+├── datasets/           
+├── docs/               
+└── README.md          
+
+
+
