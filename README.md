@@ -63,3 +63,10 @@ The system aims to provide real-time alerts, ensure trust in shared content, and
 
 > This repository serves as the central hub for all development work, progress updates, and documentation for the project *Tackling Fake News*.
 
+---
+
+## 📄 Project Documents
+
+- [Tackling Fake News Overview](./Tackling_Fake_News_Overview.pdf)
+- [Tackling Fake News Architecture & Design Document](./Tackling_Fake_News_Architecture_Design_Document.pdf)
+- [Tackling Fake News Checkpoint 1 Summary Updated](./Tackling_Fake_News_Checkpoint1_Summary_Updated.pdf)
